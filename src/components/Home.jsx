@@ -11,7 +11,7 @@ function Home() {
         <img
           src={img} 
           alt="Ali Elsharqawy"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover flex-shrink-0"
         />
       </div>
 
