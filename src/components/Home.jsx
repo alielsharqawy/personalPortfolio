@@ -4,7 +4,7 @@ function Home() {
   return (
     <section
       id="home"
-      className="h-screen bg-gray-900 text-white flex flex-col md:flex-row items-center justify-center"
+      className="h-[60vh] bg-gray-900 text-white flex flex-col md:flex-row items-center justify-center"
     >
       {/* Image Section */}
       <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden shadow-lg animate-fadeIn">

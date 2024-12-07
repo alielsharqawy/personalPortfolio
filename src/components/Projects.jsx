@@ -41,7 +41,7 @@ function Projects() {
     <section id="projects" className="py-20 bg-gray-900 text-white">
       <div className="container mx-auto px-6 text-center">
         {/* Section Title */}
-        <h2 className="text-4xl font-bold mb-8">Projects</h2>
+        <h2 className="text-blue-400 text-4xl font-bold mb-8">Projects</h2>
         <p className="text-gray-400 max-w-xl mx-auto mb-12">
           I have worked on a wide range of projects. From flutter apps to web
           apps. Here are some of my projects.

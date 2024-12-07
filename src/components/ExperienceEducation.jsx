@@ -30,7 +30,7 @@ function ExperienceEducation() {
   ];
 
   return (
-    <section id="experience-education" className="py-20 bg-gray-900 text-white">
+    <section id="experience" className="py-20 bg-gray-900 text-white">
       <div className="container mx-auto px-6">
         {/* Section Title */}
         <h2 className="text-4xl font-bold text-center mb-12">
