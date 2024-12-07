@@ -4,14 +4,14 @@ function Home() {
   return (
     <section
       id="home"
-      className=" h-[60vh] bg-gray-900 text-white flex flex-col md:flex-row items-center justify-center"
+      className=" h-[70vh] bg-gray-900 text-white flex flex-col md:flex-row items-center justify-center"
     >
       {/* Image Section */}
       <div className="mt-20 w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden shadow-lg animate-fadeIn">
         <img
           src={img} 
           alt="Ali Elsharqawy"
-          className="w-full h-full object-cover flex-shrink-0"
+          className="w-full h-full object-cover "
         />
       </div>
 
